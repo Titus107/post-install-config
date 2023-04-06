@@ -72,10 +72,10 @@ Navigate to Agent Panel -> Users -> Add New. Add a couple new users; these will 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gc2zvd1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we will configure SLA. Go to Admin Panel -> Manage -> SLA. We can add a SEV-A, SEV-B, and SEV-C and later add a severity to your tickets. We can add our own custom SLA hours to tickets.
+Now we will configure SLA. Go to Admin Panel -> Manage -> SLA and click on "add new SLA plan". We can add a SEV-A, SEV-B, and SEV-C and later add a severity to your tickets. We can add our own custom SLA hours to tickets.
  
 </p>
 <br />
