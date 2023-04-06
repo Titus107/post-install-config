@@ -54,3 +54,12 @@ Go to Admin Panel -> Agents -> Departments and add a new department. Label it "S
 Go to Admin Panel -> Agents -> Teams and create a team. "Level II Support"; there should already be a Level I Support team existing. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/H93HPIr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we'll allow anyone to create a ticket by going to Admin Panel -> Settings -> User Settings. Uncheck the box "require registration and login to create tickets". 
+</p>
+<br />
+
