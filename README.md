@@ -81,9 +81,15 @@ Now we will configure SLA. Go to Admin Panel -> Manage -> SLA and click on "add 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O482S1f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we'll allow anyone to create a ticket by going to Admin Panel -> Settings -> User Settings. Uncheck the box "require registration and login to create tickets". 
+The final step will be to configure our help topics by going to Admin Panel -> Manage -> Help Topics and creating various topics such as the following: 
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+And congratulations! We now have our basic settings configured and ready to use. Join us for the last part of this lab where we look at the lifecycle of tickets by creating a few and resolving them. 
+ 
 </p>
 <br />
