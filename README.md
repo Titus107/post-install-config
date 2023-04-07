@@ -85,10 +85,11 @@ Now we will configure SLA. Go to Admin Panel -> Manage -> SLA and click on "add 
 </p>
 <p>
 The final step will be to configure our help topics by going to Admin Panel -> Manage -> Help Topics and creating various topics such as the following: 
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request, and
+Password Reset.
+ </p>
 And congratulations! We now have our basic settings configured and ready to use. Join us for the last part of this lab where we look at the lifecycle of tickets by creating a few and resolving them. 
  
 </p>
